@@ -1,2 +1,6 @@
-# chat_app_ratchet
-A chat app using ratchet websocket and php
+# Chat app using rachet
+Testing rachet websocket for php
+
+## Tech used:
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
